@@ -1,0 +1,95 @@
+body {
+  background-color: rgb(253, 251, 251);
+  padding: 50px;
+  margin-top: 80px;
+  height: 90%;
+}
+
+#cabecalho {
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  background-color: rgb(243, 238, 168);
+}
+
+
+
+
+#titulo {
+  text-align: center;
+  font-family: Kalam, cursive;
+  letter-spacing: 0.3cm;
+  color: rgb(52, 53, 7);
+  font-size: 40px;
+}
+
+#minha_foto {
+  border: 15px double rgb(44, 44, 42);
+  margin-left: 40%;
+  margin-top: 50px;
+}
+
+.testimony {
+  margin-bottom: 200px;
+  padding: 100px;
+}
+
+.lado_esquerdo {
+  border: thick double rgb(5, 5, 5);
+  box-shadow: 10px 10px 10px rgb(78 53 39);
+  padding: 8px;
+  width: 45%;
+  float: left;
+}
+
+.lado_esquerdo p {
+  text-align: justify;
+  font-family: Klee One , cursive;
+  font-size: 17px;
+}
+
+.lado_direito {
+  border: thick double rgb(5, 5, 5);
+  box-shadow: 10px 10px 10px rgb(78 53 39);
+  padding: 8px;
+  margin-bottom: 200px;
+  width: 45%;
+  float: right;
+}
+
+.lado_direito p {
+  text-align: justify;
+  font-family: Klee One, cursive;
+  font-size: 17px;
+  padding-top: 45px;
+}
+
+footer {
+  background-color: rgb(243, 238, 168);
+  clear: both;
+  width: 100%;
+  height: 10%;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+footer h2 {
+  font-size: smaller;
+}
+
+footer a {
+  margin: 30px 30px 30px 30px;
+}
+
+footer a:hover {
+  color: rgb(228, 97, 27);
+}
+
+.externalLinks {
+  padding: 10px;
+}
+
+.externalLinks a {
+  margin-left: 30px;
+}
