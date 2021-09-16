@@ -1,7 +1,7 @@
-# Trybe - Projetos e Exercícios
+# Trybe - Projetos 
 ---
 
-Repósitorio que contém todos os projetos relizados durante o curso de Desenvolvimento Web pela Trybe 
+:rocket: Repósitorio que contém todos os projetos relizados durante o curso de Desenvolvimento Web pela Trybe :rocket:
 <br>
 > "O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 <br>
