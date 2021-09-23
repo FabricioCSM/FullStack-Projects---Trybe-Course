@@ -28,6 +28,7 @@
 
 - ### HTML e CSS: Forms, Flexbox e Responsivo
 
+- [x] [Projeto Trybewarts](https://github.com/tryber/sd-016-a-project-trybewarts/tree/fabricio-martins-trybewarts)
 
 - ### Introdução à JavaScript ES6 e Testes Unitários
 
