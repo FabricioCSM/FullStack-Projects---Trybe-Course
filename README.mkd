@@ -11,29 +11,34 @@
 
 
 - ### Introdução à HTML e CSS
-- [x] [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
+- [x] [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
 
 
 - ### Inrodução à JavaScript e Lógica de Programação
-- [x] [Projeto Playground Functions](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Playground%20Functions)
+- [x] [Projeto Playground Functions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Playground%20Functions)
 
 
 - ### JavaScript: DOM, Eventos e Web Storage
-- [x] [Projeto Pixels Art](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Pixels%20Art)
+- [x] [Projeto Pixels Art](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Pixels%20Art)
 
 
 
-- [x] [Projeto To-do list](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20To-do%20List)
+- [x] [Projeto To-do list](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20To-do-List)
 
 
 - ### HTML e CSS: Forms, Flexbox e Responsivo
 
-- [x] [Projeto Trybewarts](https://github.com/tryber/sd-016-a-project-trybewarts/tree/fabricio-martins-trybewarts)
+- [x] [Projeto Trybewarts](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20TrybeWarts)
 
 - ### Introdução à JavaScript ES6 e Testes Unitários
 
+- [x] [Projeto JavaScript Testes Unitários](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20UnitTests)
 
 - ### Higher Order Functions do JavaScript ES6
 
+- [x] [Projeto ZooFunctions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ZooFunctions)
 
-- ### JavaScript Assíncrono e Promises
+- ### JavaScript e Testes Assíncronos
+
+- [x] [Projeto Carrinho de Compras](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ShoppingCart)
+
