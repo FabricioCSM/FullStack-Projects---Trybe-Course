@@ -42,3 +42,25 @@
 
 - [x] [Projeto Carrinho de Compras](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ShoppingCart)
 
+---
+
+## Desenvolvimento Front-end
+
+- ### Introdução à React
+- [x] [Projeto Sistema Solar](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20SolarSystem)
+
+- ### Componentes com Estado, Eventos e Formulários com React
+
+- ### Ciclo de Vida de Componentes e React Router
+
+- ### Metodologias Ágeis
+
+- ### Testes automatizados com React Testing Library
+
+- ### Gerenciamento de estado com Redux
+
+- ### Projeto Jogo de Trivia
+
+- ### Context API e React Hooks
+
+- ### Projeto App de Receitas
