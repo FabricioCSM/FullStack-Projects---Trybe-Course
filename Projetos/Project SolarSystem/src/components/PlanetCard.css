@@ -1,0 +1,23 @@
+.planets {
+  flex-direction: row;
+  float: left;
+  margin: 30px;
+  padding: 20px;
+}
+
+.solarSystem {
+  margin-left: 90px;
+}
+
+.image {
+  height: 70px;
+}
+
+h2 {
+  width: 93%;
+}
+
+p {
+  text-align: center;
+  font-weight: 900;
+}

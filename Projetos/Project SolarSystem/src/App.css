@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+body {
+  color: white;
+  background-image: url('images/Space.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
