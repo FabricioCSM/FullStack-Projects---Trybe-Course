@@ -1,0 +1,112 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 90px;
+}
+
+.slogan {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+.items {
+  display: flex;
+  flex-basis: 70%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  border: 4px solid blue;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  margin: 5px;
+  width: 200px;
+}
+
+.item .item__sku {
+  display: none;
+}
+
+.item .item__title {
+  flex-grow: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.item .item__image {
+  width: 100%;
+}
+
+.item .item__add {
+  background-color: green;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  padding: 5px;
+}
+
+.item .item__price {
+  padding: 15px;
+  font-size: 20px;
+}
+
+.cart {
+  display: flex;
+  flex-basis: 30%;
+  flex-flow: column wrap;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.cart .cart__title {
+  flex-basis: 1;
+  font-size: 16pt;
+  padding: 15px;
+  text-align: center;
+}
+
+.cart .empty-cart {
+  padding: 5px;
+  width: 90%;
+  margin-left: 26px;
+  cursor: pointer;
+}
+
+.cart .total-price {
+  padding: 15px; 
+}
+
+#cabecalho {
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  background-color: rgb(30, 128, 30);
+}
+
+#myBtn {
+  display: none;
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
