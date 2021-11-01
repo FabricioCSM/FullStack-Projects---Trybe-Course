@@ -20,4 +20,5 @@ Neste projeto, desenvolvemos uma página de formulário da Escola de Magia de Tr
 
 ---
 
-![trybeWarts](https://user-images.githubusercontent.com/67379527/139700599-dfd51dec-9d85-4e34-a3de-047903c08e8c.gif)
+![trybeWarts2](https://user-images.githubusercontent.com/67379527/139701070-59bd7df0-c6dd-479d-9290-b3d386b09557.gif)
+
