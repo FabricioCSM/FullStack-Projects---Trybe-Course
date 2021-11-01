@@ -1,37 +1,39 @@
-# Trybe - Projetos e Exercícios
+# Trybe - Projetos 
 ---
 
-Repósitorio que contém todos os projetos relizados durante o curso de Desenvolvimento Web pela Trybe 
+:rocket: Repósitorio que contém todos os projetos relizados durante o curso de Desenvolvimento Web pela Trybe :rocket:
 <br>
 > "O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 <br>
 <br>
-## Fundamentos do Desenvolvimento WEB
-<br>
-### Introdução à HTML e CSS
-- [x] [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
-<br>
 
-### Inrodução à JavaScript e Lógica de Programação
+## Fundamentos do Desenvolvimento WEB
+
+
+- ### Introdução à HTML e CSS
+- [x] [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
+
+
+- ### Inrodução à JavaScript e Lógica de Programação
 - [x] [Projeto Playground Functions](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Playground%20Functions)
-<br>
-### JavaScript: DOM, Eventos e Web Storage
+
+
+- ### JavaScript: DOM, Eventos e Web Storage
 - [x] [Projeto Pixels Art](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20Pixels%20Art)
-<br>
-<br>
+
+
+
 - [x] [Projeto To-do list](https://github.com/FabricioCSM/Projects-and-Exercies-Trybe-/tree/main/Projetos/Project%20To-do%20List)
 
-<br>
-### HTML e CSS: Forms, Flexbox e Responsivo
 
-<br>
-### Introdução à JavaScript ES6 e Testes Unitários
+- ### HTML e CSS: Forms, Flexbox e Responsivo
 
-<br>
-### Higher Order Functions do JavaScript ES6
+- [x] [Projeto Trybewarts](https://github.com/tryber/sd-016-a-project-trybewarts/tree/fabricio-martins-trybewarts)
 
-<br>
-### JavaScript Assíncrono e Promises
+- ### Introdução à JavaScript ES6 e Testes Unitários
 
-<br>
-### Testes automatizados com Jest
+
+- ### Higher Order Functions do JavaScript ES6
+
+
+- ### JavaScript Assíncrono e Promises
