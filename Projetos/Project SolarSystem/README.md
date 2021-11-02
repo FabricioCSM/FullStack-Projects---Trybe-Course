@@ -37,4 +37,5 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 ---
 
-![asdasdasd](https://user-images.githubusercontent.com/67379527/139705536-2416748a-0360-4a3c-9774-d34c6e15cb06.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67379527/139855599-1b2621c1-a76d-4382-ba6b-d014c696bcb7.gif)
+
