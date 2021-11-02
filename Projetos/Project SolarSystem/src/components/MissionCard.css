@@ -8,11 +8,13 @@
   padding: 20px;
   box-shadow: 10px 8px 16px 20px rgba(162, 44, 44, 0.2);
   border-radius: 20px;
-  transition: .7s;
+  background-color: rgba(238, 238, 180, 0.856);
+  transition: .9s;
 }
 
 .mission:hover {
   color: #ffee10;
+  transform: rotateX(360deg);
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 

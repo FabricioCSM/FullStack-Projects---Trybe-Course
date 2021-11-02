@@ -3,6 +3,11 @@
   float: left;
   margin: 30px;
   padding: 20px;
+  transition: .5s;
+}
+
+.planets:hover {
+  transform: scale(1.5);
 }
 
 .solarSystem {
