@@ -15,4 +15,5 @@ Neste projeto criamos uma versão simplificada, sem persistência no banco de da
   - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações;
   - E por fim, verificar a página de finalizar a compra (simulada) dos itens selecionados.
 
-
+---
+![frontendonlinestore2](https://user-images.githubusercontent.com/67379527/156460379-3c6074cf-67d9-4f7b-858b-276bad89900e.gif)
