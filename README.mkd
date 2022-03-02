@@ -56,6 +56,7 @@
 - [x] [Projeto Trybetunes](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Trybetunes)
 
 - ### Metodologias Ágeis
+- [x] [Projeto Online Store](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Frontend-online-store)
 
 - ### Testes automatizados com React Testing Library
 
