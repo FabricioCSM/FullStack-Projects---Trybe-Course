@@ -1,0 +1,128 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.listaCategorias {
+  display: flex;
+  flex-direction: column;
+  padding-top: 21px;
+}
+
+.homeScreen h2 {
+  text-align: center;
+}
+
+.home {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  margin: 10px 20px;
+}
+
+.product-area {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #555965;
+  border-radius: 5px;
+  font-family: Roboto , sans-serif;
+  font-size: 17px;
+  margin: 10px 35px;
+  padding: 10px 20px;
+  width: 25%;
+}
+
+.productStyle div img {
+  height: 150px;
+  width: 150px;
+}
+
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.name-container {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+  padding: 2px 0;
+}
+
+.product-price {
+  font-size: 18px;
+  margin: 20px;
+}
+
+.addCart {
+  background-color: #f11c15;
+  border: none;
+  border-radius: 5px;
+  color: #ebebec;
+  cursor: pointer;
+  font-family: Roboto , sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  padding: 5px 30px;
+}
+
+.category-item {
+  background-color: #555965;
+  border: none;
+  border-radius: 20px;
+  color: #ebebec;
+  margin: 5px 0;
+  padding: 5px 10px;
+}
+
+.category-item:hover {
+  background-color: #3a3d46;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.search-input {
+  background-color: #ebebec;
+  border: 1px solid #555965;
+  border-radius: 5px;
+  color: #555965;
+  font-size: 18px;
+  font-weight: 700;
+  height: 35px;
+  width: 500px;
+}
+
+.search-btn {
+  background-color: #555965;
+  border: none;
+  border-radius: 5px;
+  color: #ebebec;
+  cursor: pointer;
+  font-family: Roboto , sans-serif;
+  font-size: 18px;
+  margin: 0 5px;
+  padding: 5px;
+}
+
+.search-btn:hover {
+  background-color: #f11c15;
+  border-color: #f11c15;
+  border-radius: 5px;
+  color: #ebebec;
+  cursor: pointer;
+  font-family: Roboto , sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 10px;
+}

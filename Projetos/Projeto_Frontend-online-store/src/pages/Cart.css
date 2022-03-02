@@ -1,0 +1,42 @@
+.div-cart {
+  display: flex;
+  margin: 40px;
+}
+
+.quanty-cartItems {
+  color: rgb(11, 110, 110);
+  display: flex;
+}
+
+.elements-cart {
+  align-content: space-around;
+  align-items: center;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(6, 150px);
+  justify-items: center;
+}
+
+.item-quanty {
+  align-items: center;
+  border: solid rgb(228, 184, 184) 0.5px;
+  border-radius: 100%;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  width: 30px;
+}
+
+.div-func-quanty {
+  align-items: center;
+  display: flex;
+}
+
+.div-func-quanty button {
+  border-radius: 30px;
+  border-style: none;
+  font-size: 30px;
+  margin: 5px;
+  width: 35px;
+}
+

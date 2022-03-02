@@ -1,0 +1,21 @@
+.email, .body {
+  background-color: #ebebec;
+  border: 1px solid #555965;
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+  width: 500px;
+}
+
+.body {
+  height: 150px;
+}
+
+.button {
+  background-color: #555965;
+  border: none;
+  border-radius: 5px;
+  color: #ebebec;
+  font-size: 18px;
+  padding: 5px;
+}

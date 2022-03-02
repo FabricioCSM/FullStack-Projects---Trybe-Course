@@ -1,0 +1,20 @@
+.header img {
+  height: 80px;
+  object-fit: cover;
+}
+
+.header {
+  align-items: center;
+  background-color: #ebebec;
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.header a > svg {
+  fill: #111215;
+  height: 25px;
+  width: 25px;
+  margin-right: 60px;
+}

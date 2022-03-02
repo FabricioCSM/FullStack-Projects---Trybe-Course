@@ -1,0 +1,76 @@
+.attributes tbody {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.attributes {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 660px;
+}
+
+.attributesTitle {
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.addToCart {
+  background-color: #f11c15;
+  border: none;
+  border-radius: 5px;
+  color: #ebebec;
+  padding: 14px 9px;
+}
+
+.productMainInfoProperties > * {
+  margin: 20px 0;
+}
+
+.addToCart:active {
+  background-color: #bb1712;
+}
+
+.productImg {
+  border-radius: 5px;
+  float: left;
+  height: 200px;
+  margin: 10px 23px;
+}
+
+.productPrice {
+  font-size: 36px;
+  height: 42px;
+  line-height: 42px;
+  top: 70px;
+  width: 500px;
+}
+
+.productContainer {
+  align-items: center;
+  background-color: white;
+  border: 1px solid #555965;
+  border-radius: 5px;
+  box-shadow: 1.2px 1px 1px #555965;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  margin: 90px 5%;
+}
+
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}
+
+table:nth-child( odd ) {
+  background-color: #87878a;
+}
