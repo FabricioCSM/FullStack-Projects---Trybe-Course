@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+}
+
+.card-creation {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 90px;
+}
+
+.addCardTitle {
+  margin: 60px 300px;
+}
+
+.deck {
+  display: block;
+}
+
+.savedCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 50px;
+  padding: 20px;
+}
+
+.btnDel {
+  display: block;
+}
