@@ -50,8 +50,10 @@
 - [x] [Projeto Sistema Solar](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20SolarSystem)
 
 - ### Componentes com Estado, Eventos e Formulários com React
+- [x] [Projeto Tryunfo](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Tryunfo)
 
 - ### Ciclo de Vida de Componentes e React Router
+- [x] [Projeto Trybetunes](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Trybetunes)
 
 - ### Metodologias Ágeis
 
