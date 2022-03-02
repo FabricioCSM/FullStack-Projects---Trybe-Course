@@ -1,0 +1,38 @@
+.cards {
+  border: 1px solid black;
+  border-radius: 5%;
+  height: 400px;
+  width: 300px;
+}
+
+.attributes {
+  position: relative;
+}
+
+.cardNamePreview {
+  background-color: green;
+  border-radius: 5%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cardImagePreview {
+  height: 170px;
+  left: 20%;
+  position: relative;
+  top: 2%;
+}
+
+.cardDescriptionPreview {
+  text-align: center;
+}
+
+.cardAttrPreview {
+  padding-right: 50px;
+  text-align: right;
+}
+
+.rareCardPreview {
+  padding-left: 50px;
+  text-align: left;
+}
