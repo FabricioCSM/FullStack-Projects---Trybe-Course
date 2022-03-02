@@ -1,0 +1,38 @@
+.searchContent {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.albunsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.artistName {
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  line-height: 150%;
+}
+
+.collectionName {
+  font-family: Verdana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  text-align: center;
+  line-height: 150%;
+}
+
+.searchForm {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 29px;
+}

@@ -1,0 +1,15 @@
+.favoriteSongPageTitle {
+  text-align: center;
+}
+
+.favoriteSongs {
+  /* display: flex;
+  flex-direction: row; */
+  /* flex-wrap: wrap; */
+}
+
+.songs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

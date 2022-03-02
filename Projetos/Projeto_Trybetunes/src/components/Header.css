@@ -1,0 +1,37 @@
+.header {
+  background-color: #023031;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.links {
+  padding: 30px;
+}
+
+.searchLink {
+  padding: 40px;
+  color: aliceblue;
+}
+
+.favoriteLink {
+  padding: 40px;
+  color: aliceblue;
+}
+
+.profileLink {
+  padding: 40px;
+  color: aliceblue;
+}
+
+.name {
+  background-color: aliceblue;
+  border-radius: 30px;
+  padding: 10px;
+  padding-left: 30px;
+  margin-top: 30px;
+  margin-left: 70px;
+  color: gray;
+  width: 200px;
+}
