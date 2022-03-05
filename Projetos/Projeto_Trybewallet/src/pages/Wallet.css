@@ -1,0 +1,84 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: rgb(72, 192, 72);
+}
+
+.email {
+  background-color: aliceblue;
+  padding: 10px 25px;
+  align-items: center;
+  padding-top: 21px;
+  border-radius: 60px;
+}
+
+.countryMoney {
+  background-color: aliceblue;
+  padding: 2px 10px;
+  border-radius: 15px;
+}
+
+.totalField {
+  background-color: aliceblue;
+  padding: 2px 10px;
+  border-radius: 15px;
+}
+
+.fieldSet {
+  margin: 50px 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+
+.expenseValue {
+  border-radius: 20px;
+  text-align: center;
+}
+
+.expenseDescription {
+  border-radius: 5px;
+}
+
+.currency {
+  padding-top: 10px;
+}
+
+.method {
+  padding-top: 10px;
+}
+
+.category {
+  padding-top: 10px;
+}
+
+.submitBtn {
+  margin: 0 1700px;
+  padding: 10px;
+}
+
+table {
+  border-collapse: separate;
+  margin-left: 13%;
+  border-spacing: 0 15px;
+}
+
+th {
+  background-color: #4287f5;
+  color: white;
+}
+
+th,
+td {
+  width: 150px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+td {
+  background-color: white;
+}

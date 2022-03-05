@@ -1,0 +1,21 @@
+.loginForm {
+  width: fit-content;
+  /* margin: 25% 40%; */
+}
+
+.loginBtn {
+  margin: 0px 25px;
+  padding: 10px;
+}
+
+body {
+  background-image: url("http://getwallpapers.com/wallpaper/full/2/6/e/307707.jpg");
+}
+
+.login {
+  margin: 20% 40%;
+}
+
+.titleLogin {
+  margin-left: 33%;
+}
