@@ -71,22 +71,22 @@
 
 ## Desenvolvimento Back-end
 
-### Docker: Utilizando Containers
+- ### Docker: Utilizando Containers
 
-### SQL
+- ### SQL
 
-### Introdução ao desenvolvimento Web com Node.js
+- ### Introdução ao desenvolvimento Web com Node.js
 
-### Node.js: Camada de Serviço e Arquitetura Rest e Restful
+- ### Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-### Node.js: ORM e Autenticação
+- ### Node.js: ORM e Autenticação
 
-###  Deployment
+- ### Deployment
 
-### TypeScript
+- ### TypeScript
 
-### Programação Orientada a Objetos (POO) e SOLID
+- ### Programação Orientada a Objetos (POO) e SOLID
 
-### Introdução ao MongoDB
+- ### Introdução ao MongoDB
 
 
