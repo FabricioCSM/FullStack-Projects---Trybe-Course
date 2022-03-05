@@ -28,4 +28,5 @@ Neste projeto foi desenvolido um jogo no estilo Super Trunfo! Onde ao utilizar e
 
 ---
 
-  ![tryunfo](https://user-images.githubusercontent.com/67379527/156450992-d5552943-6e2c-4c8b-9975-500b13f203fd.gif)
+ 
+![tryunfo2](https://user-images.githubusercontent.com/67379527/156889962-15179ddf-7ed7-4a68-bc0c-e631015151b2.gif)
