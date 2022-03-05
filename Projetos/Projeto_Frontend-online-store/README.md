@@ -16,4 +16,5 @@ Neste projeto criamos uma versão simplificada, sem persistência no banco de da
   - E por fim, verificar a página de finalizar a compra (simulada) dos itens selecionados.
 
 ---
-![frontendonlinestore2](https://user-images.githubusercontent.com/67379527/156460379-3c6074cf-67d9-4f7b-858b-276bad89900e.gif)
+
+![frontedstore](https://user-images.githubusercontent.com/67379527/156889940-08e46faf-cb03-4012-ae03-33e4dd7da53f.gif)
