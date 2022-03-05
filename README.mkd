@@ -64,8 +64,29 @@
 - ### Gerenciamento de estado com Redux
 - [x] React Redux -> [Projeto TrybeWallet](https://github.com/FabricioCSM/FullStack-Projects---Trybe-Course/blob/main/Projetos/Projeto_Trybewallet/README.md)
 
-- ### Projeto Jogo de Trivia
-
-- ### Context API e React Hooks
-
 - ### Projeto App de Receitas
+- [x] React Hooks -> [Projeto Recipes APP](https://github.com/FabricioCSM/FullStack-Projects---Trybe-Course/blob/main/Projetos/Projeto_Recipes-app/README.md)
+
+---
+
+## Desenvolvimento Back-end
+
+### Docker: Utilizando Containers
+
+### SQL
+
+### Introdução ao desenvolvimento Web com Node.js
+
+### Node.js: Camada de Serviço e Arquitetura Rest e Restful
+
+### Node.js: ORM e Autenticação
+
+###  Deployment
+
+### TypeScript
+
+### Programação Orientada a Objetos (POO) e SOLID
+
+### Introdução ao MongoDB
+
+
