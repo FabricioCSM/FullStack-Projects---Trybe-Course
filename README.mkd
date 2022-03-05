@@ -62,6 +62,7 @@
 - [x] React Testing Library -> [Projeto Testes React](https://github.com/FabricioCSM/FullStack-Projects---Trybe-Course/tree/main/Projetos/Projeto_React-testing-library)
 
 - ### Gerenciamento de estado com Redux
+- [x] React Redux -> [Projeto TrybeWallet](https://github.com/FabricioCSM/FullStack-Projects---Trybe-Course/blob/main/Projetos/Projeto_Trybewallet/README.md)
 
 - ### Projeto Jogo de Trivia
 
