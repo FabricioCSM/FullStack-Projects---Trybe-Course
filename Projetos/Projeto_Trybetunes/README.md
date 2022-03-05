@@ -35,4 +35,6 @@ Este projeto, teve o objetivo de reforçar o conteúdo sobre:
 
 
 ---
-![trubetunes](https://user-images.githubusercontent.com/67379527/156449252-c38451cc-af60-40e6-985c-bd82c700cee2.gif)
+![trybetunes2](https://user-images.githubusercontent.com/67379527/156889976-3ea6bb85-1dbb-4a26-abcc-cfd3e328baab.gif)
+
+
