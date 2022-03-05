@@ -11,51 +11,52 @@
 
 
 - ### Introdução à HTML e CSS
-- [x] [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
+- [x] HTML first page -> [Projeto Lessons Learned](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Lessons%20Learned)
 
 
 - ### Inrodução à JavaScript e Lógica de Programação
-- [x] [Projeto Playground Functions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Playground%20Functions)
+- [x] JavaScript and Logic -> [Projeto Playground Functions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Playground%20Functions)
 
 
 - ### JavaScript: DOM, Eventos e Web Storage
-- [x] [Projeto Pixels Art](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Pixels%20Art)
+- [x] JavaScript/CSS/HTML Game -> [Projeto Pixels Art](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20Pixels%20Art)
 
 
 
-- [x] [Projeto To-do list](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20To-do-List)
+- [x] JavaScript/CSS/HTML ToDoList -> [Projeto To-do list](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20To-do-List)
 
 
 - ### HTML e CSS: Forms, Flexbox e Responsivo
 
-- [x] [Projeto Trybewarts](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20TrybeWarts)
+- [x] Form Page -> [Projeto Trybewarts](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20TrybeWarts)
 
 - ### Introdução à JavaScript ES6 e Testes Unitários
 
-- [x] [Projeto JavaScript Testes Unitários](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20UnitTests)
+- [x] Unit Testing -> [Projeto JavaScript Testes Unitários](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20UnitTests)
 
 - ### Higher Order Functions do JavaScript ES6
 
-- [x] [Projeto ZooFunctions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ZooFunctions)
+- [x] HOF's -> [Projeto ZooFunctions](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ZooFunctions)
 
 - ### JavaScript e Testes Assíncronos
 
-- [x] [Projeto Carrinho de Compras](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ShoppingCart)
+- [x] E-commerce page -> [Projeto Carrinho de Compras](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20ShoppingCart)
 
 ---
 
 ## Desenvolvimento Front-end
 
 - ### Introdução à React
-- [x] [Projeto Sistema Solar](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20SolarSystem)
+- [x] SolarSystem WebPage -> [Projeto Sistema Solar](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Project%20SolarSystem)
 
 - ### Componentes com Estado, Eventos e Formulários com React
-- [x] [Projeto Tryunfo](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Tryunfo)
+- [x] Card Game -> [Projeto Tryunfo](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Tryunfo)
 
 - ### Ciclo de Vida de Componentes e React Router
-- [x] [Projeto Trybetunes](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Trybetunes)
+- [x] WebSearch Music page -> [Projeto Trybetunes](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Trybetunes)
 
 - ### Metodologias Ágeis
+- [x] E-commerce page -> [Projeto Online Store](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Frontend-online-store)
 
 - ### Testes automatizados com React Testing Library
 
