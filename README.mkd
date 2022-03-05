@@ -59,6 +59,7 @@
 - [x] E-commerce page -> [Projeto Online Store](https://github.com/FabricioCSM/Projects-Trybe-/tree/main/Projetos/Projeto_Frontend-online-store)
 
 - ### Testes automatizados com React Testing Library
+- [x] React Testing Library -> [Projeto Testes React](https://github.com/FabricioCSM/FullStack-Projects---Trybe-Course/tree/main/Projetos/Projeto_React-testing-library)
 
 - ### Gerenciamento de estado com Redux
 
